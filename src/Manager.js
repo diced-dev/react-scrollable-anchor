@@ -7,7 +7,7 @@ const defaultConfig = {
   offset: 0,
   scrollDuration: 400,
   keepLastAnchorHash: false,
-  scrollUrlHashUpdate: true,
+  scrollUrlHashUpdate: false
 }
 
 class Manager {
